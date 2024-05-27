@@ -1,3 +1,4 @@
 My name is Sadman Sohan
 I am an IT student at University Of Rajshahi
 I want to become a Software Engineer
+I have learn some valuable things about git and github
